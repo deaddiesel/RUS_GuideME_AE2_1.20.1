@@ -606,7 +606,7 @@
   "gui.tooltips.ae2.LevelType": "Тип уровня",
   "gui.tooltips.ae2.LevelType_Energy": "Энергия",
   "gui.tooltips.ae2.LevelType_Item": "Предмет",
-  "gui.tooltips.ae2.LinkWirelessTerminal": "Привяжите беспроводной терминал здесь",
+  "gui.tooltips.ae2.LinkWirelessTerminal": "Привяжите беспроводной терминал здесь.",
   "gui.tooltips.ae2.LockCraftingMode": "Заблокировать создание",
   "gui.tooltips.ae2.LockCraftingModeNone": "Никогда",
   "gui.tooltips.ae2.LockCraftingUntilRedstonePulse": "До получения импульса редстоуна",
