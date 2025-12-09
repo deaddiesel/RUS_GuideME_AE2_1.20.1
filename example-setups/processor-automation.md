@@ -66,27 +66,27 @@ navigation:
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 1 0" max="3 2 1" thickness=".05">
-        (8) Вырезатель #1: в конфигурации по умолчанию, кремниевая печать и 4 карты ускорения.
+        (8) Высекатель #1: в конфигурации по умолчанию, кремниевая печать и 4 карты ускорения.
         <Row><ItemImage id="silicon_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 3 0" max="3 4 1" thickness=".05">
-        (9) Вырезатель #2: в конфигурации по умолчанию, логическая печать и 4 карты ускорения.
+        (9) Высекатель #2: в конфигурации по умолчанию, логическая печать и 4 карты ускорения.
         <Row><ItemImage id="logic_processor_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 4 0" max="3 5 1" thickness=".05">
-        (10) Вырезатель #3: в конфигурации по умолчанию, вычислительная печать и 4 карты ускорения.
+        (10) Высекатель #3: в конфигурации по умолчанию, вычислительная печать и 4 карты ускорения.
         <Row><ItemImage id="calculation_processor_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="4 5 0" max="3 6 1" thickness=".05">
-        (11) Вырезатель #4: в конфигурации по умолчанию, инженерная печать и 4 карты ускорения.
+        (11) Высекатель #4: в конфигурации по умолчанию, инженерная печать и 4 карты ускорения.
         <Row><ItemImage id="engineering_processor_press" scale="2" /> <ItemImage id="speed_card" scale="2" /></Row>
   </BoxAnnotation>
 
   <BoxAnnotation color="#dddddd" min="2 2 0" max="1 3 1" thickness=".05">
-        (12) Вырезатель #5: в конфигурации по умолчанию, имеет 4 карты ускорения.
+        (12) Высекатель #5: в конфигурации по умолчанию, имеет 4 карты ускорения.
         <ItemImage id="speed_card" scale="2" />
   </BoxAnnotation>
 
@@ -128,7 +128,7 @@ navigation:
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="3.3 2.7 0.3" max="3.7 3 0.7" thickness=".05">
-        Кварцевое волокно питает все три вырезателя, поскольку они действуют как кабели и, таким образом, передают энергию.
+        Кварцевое волокно питает все три высекателя, поскольку они действуют как кабели и, таким образом, передают энергию.
   </BoxAnnotation>
 
 <DiamondAnnotation pos="7 1.5 0.5" color="#00ff00">
