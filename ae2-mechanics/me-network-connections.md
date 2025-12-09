@@ -92,7 +92,7 @@ navigation:
 
 В данном случае это всего лишь одна сеть, поскольку <ItemLink id="pattern_provider" />, будучи полноблочным устройством, действует как
 кабель, а <ItemLink id="inscriber" /> выполняет аналогичные функции. Таким образом, сетевое соединение проходит через
-поставщик и вырезатель.
+поставщик и высекатель.
 
 <GameScene zoom="6" background="transparent">
   <ImportStructure src="../assets/assemblies/pattern_provider_network_connection_1.snbt" />
