@@ -280,7 +280,8 @@
  
   "entity.ae2.tiny_tnt_primed": "Крохотный динамит",
   "entity.minecraft.villager.ae2.fluix_researcher": "Флюисовый исследователь",
-
+  "entity.minecraft.villager.fluix_researcher": "Флюисовый исследователь",
+  
   "gui.ae2.AdjacentToDifferentMachines": "Рядом с разными механизмами",
   "gui.ae2.And": "и",
   "gui.ae2.AttachedTo": "Присоединён с: %s",
